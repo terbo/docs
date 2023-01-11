@@ -36,7 +36,7 @@ If you aren't sure if RunPod is for you, feel free to hang out in our [Discord](
 
 #### **What is an on-demand instance?**&#x20;
 
-On-demand instances are for non-interruptible workloads. You pay the on-demand price and cannot be displaced by other users as long as long as you have funds to keep your pod running.
+On-demand instances are for non-interruptible workloads. You pay the on-demand price and cannot be displaced by other users as long as you have funds to keep your pod running.
 
 #### **What is a spot instance?**
 
